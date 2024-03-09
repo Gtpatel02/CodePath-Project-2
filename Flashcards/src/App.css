@@ -1,0 +1,19 @@
+body {
+  background-image: url('https://cdn.hero.page/wallpapers/90c4dedc-e77f-4d70-9edb-da31eca852c8-minimalist-mountain-landscape-wallpaper-1.png');
+  background-repeat: no-repeat;
+  background-position-x: center;
+  background-position: fixed;
+}
+
+h1{
+  text-align: center;
+  padding-top: 10%;
+}
+
+h2{
+  text-align: center;
+}
+
+h3{
+  text-align: center;
+}
